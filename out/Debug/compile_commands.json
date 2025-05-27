@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/out/Debug",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/GUI -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Stats -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Abilities -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Species -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokmeon/Items -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Moves -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Natures -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Types -I\"/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/*\" -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/app.dir/src/GUI/App.cpp.o -c /home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/src/GUI/App.cpp",
+  "file": "/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/src/GUI/App.cpp",
+  "output": "CMakeFiles/app.dir/src/GUI/App.cpp.o"
+},
+{
+  "directory": "/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/out/Debug",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/GUI -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Stats -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Abilities -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Species -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokmeon/Items -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Moves -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Natures -I/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/Types -I\"/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/include/Pokemon/*\" -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -std=gnu++17 -o CMakeFiles/app.dir/src/GUI/MainFrame.cpp.o -c /home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/src/GUI/MainFrame.cpp",
+  "file": "/home/teejarr/Code/cpp/Run-And-Bun-Fight-Tracker/src/GUI/MainFrame.cpp",
+  "output": "CMakeFiles/app.dir/src/GUI/MainFrame.cpp.o"
+}
+]
