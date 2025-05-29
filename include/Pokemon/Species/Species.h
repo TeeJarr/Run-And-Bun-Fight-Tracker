@@ -8,3 +8,5 @@ struct Species {
   PkmnStats baseStats;
   int weight;
 };
+
+inline Species MEW = {"Mew", {Psychic, NULL_TYPE}, {100, 100, 100, 100, 100, 100}, 50};

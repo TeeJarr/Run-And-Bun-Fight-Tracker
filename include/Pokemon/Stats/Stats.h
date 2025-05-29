@@ -1,10 +1,10 @@
 #pragma once
 #include "Natures.h"
-#include <cmath>
+#include <sys/types.h>
 
 struct PkmnStats {
-  int HP;
-  int Attack;
+  u_int16_t HP;
+  u_int16_t Attack;
   int Defense;
   int SpAttack;
   int SpDefense;
